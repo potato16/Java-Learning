@@ -15,5 +15,14 @@ Cài đặt Egit:
   
   Check vào Eclipse Git Team Provider sau đó làm theo thứ tự cài đặt.
   
-Cài đặt Gradle: 
+Cài đặt Gradle:
+
+  Mở Eclipse, Ấn Help -> Install new Software ->Add
+  
+  Điền vào field name: Gradle
+  
+  Điền vào field Location: http://dist.springsource.com/snapshot/TOOLS/gradle/nightly
+  
+  Check vào Extensions/Gradle Integration  sau đó làm theo thứ tự cài đặt.
+  
   
